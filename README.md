@@ -3,7 +3,7 @@
 In Zuru Tech we deeply believe that every project must follow a well-defined set of rules about how to write code, and how to manage the project itself.
 
 We are strong supporters of the "don't reinventing the wheel" way of thinking, and that's why we try to use the right tools, in the right way, to speed up the development
-and to simplify the code-review process while, at the same time, guaranteting a good code quality.
+and to simplify the code-review process while, at the same time, guaranteeing a good code quality.
 
 This project holds the Python Style Guide (currently, other languages are coming soon), the suggested CI pipeline to use (based on Gitlab CI) and other useful development files.
 
