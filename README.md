@@ -1,5 +1,7 @@
 # Zuru Tech Style Guides
 
+[![Code Style - Zuru](https://img.shields.io/badge/codestyle-zuru-red)](https://github.com/zurutech/styleguide)
+
 In Zuru Tech we deeply believe that every project must follow a well-defined set of rules about how to write code, and how to manage the project itself.
 
 We are strong supporters of the "don't reinventing the wheel" way of thinking, and that's why we try to use the right tools, in the right way, to speed up the development
