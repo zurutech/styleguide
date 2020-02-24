@@ -9,6 +9,9 @@ and to simplify the code-review process while, at the same time, guaranteeing a 
 
 This project holds the Python Style Guide (currently, other languages are coming soon), the suggested CI pipeline to use (based on Gitlab CI) and other useful development files.
 
+## Style Guides
+
+### [Python](./python.md)
 
 ## License
 
